@@ -36,7 +36,7 @@ This **AI-powered real-time chat application**, built with **Flutter**, brings y
 </td>
 <td align="center">
 <b>Image Editor</b><br>
-<img src="https://github.com/user-attachments/assets/5bae6bd1-2389-4447-b95a-b32e8dc6f029" width="250">
+<img src="https://github.com/user-attachments/assets/5bae6bd1-2389-4447-b95a-b32e8dc6e029" width="250">
 </td>
 </tr>
 </table>
